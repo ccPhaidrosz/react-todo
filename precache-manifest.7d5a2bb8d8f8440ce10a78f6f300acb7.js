@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "55375f952ca0f54e18a733e5dcbbbb8c",
+    "revision": "fa329f64baded11e09da42641eb094a5",
     "url": "/ccPhaidrosz/react-todo/index.html"
   },
   {
-    "revision": "d885a8e8602e5513e469",
+    "revision": "dbc75185fc1b64ae6572",
     "url": "/ccPhaidrosz/react-todo/static/css/main.a423be14.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ccPhaidrosz/react-todo/static/js/2.03150a73.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d885a8e8602e5513e469",
-    "url": "/ccPhaidrosz/react-todo/static/js/main.11360c4d.chunk.js"
+    "revision": "dbc75185fc1b64ae6572",
+    "url": "/ccPhaidrosz/react-todo/static/js/main.e89e0239.chunk.js"
   },
   {
     "revision": "d97928033dc4e7f598a0",
