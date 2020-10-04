@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ccPhaidrosz/react-todo/static/css/main.a423be14.chunk.css",
+    "main.js": "/ccPhaidrosz/react-todo/static/js/main.11360c4d.chunk.js",
+    "main.js.map": "/ccPhaidrosz/react-todo/static/js/main.11360c4d.chunk.js.map",
+    "runtime-main.js": "/ccPhaidrosz/react-todo/static/js/runtime-main.4282ce27.js",
+    "runtime-main.js.map": "/ccPhaidrosz/react-todo/static/js/runtime-main.4282ce27.js.map",
+    "static/js/2.03150a73.chunk.js": "/ccPhaidrosz/react-todo/static/js/2.03150a73.chunk.js",
+    "static/js/2.03150a73.chunk.js.map": "/ccPhaidrosz/react-todo/static/js/2.03150a73.chunk.js.map",
+    "index.html": "/ccPhaidrosz/react-todo/index.html",
+    "precache-manifest.32934648347cfa6a091b6ac698d8c9fa.js": "/ccPhaidrosz/react-todo/precache-manifest.32934648347cfa6a091b6ac698d8c9fa.js",
+    "service-worker.js": "/ccPhaidrosz/react-todo/service-worker.js",
+    "static/css/main.a423be14.chunk.css.map": "/ccPhaidrosz/react-todo/static/css/main.a423be14.chunk.css.map",
+    "static/js/2.03150a73.chunk.js.LICENSE.txt": "/ccPhaidrosz/react-todo/static/js/2.03150a73.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4282ce27.js",
+    "static/js/2.03150a73.chunk.js",
+    "static/css/main.a423be14.chunk.css",
+    "static/js/main.11360c4d.chunk.js"
+  ]
+}
