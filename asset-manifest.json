@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ccPhaidrosz/react-todo/static/css/main.a423be14.chunk.css",
-    "main.js": "/ccPhaidrosz/react-todo/static/js/main.e89e0239.chunk.js",
-    "main.js.map": "/ccPhaidrosz/react-todo/static/js/main.e89e0239.chunk.js.map",
+    "main.js": "/ccPhaidrosz/react-todo/static/js/main.3da51c97.chunk.js",
+    "main.js.map": "/ccPhaidrosz/react-todo/static/js/main.3da51c97.chunk.js.map",
     "runtime-main.js": "/ccPhaidrosz/react-todo/static/js/runtime-main.4282ce27.js",
     "runtime-main.js.map": "/ccPhaidrosz/react-todo/static/js/runtime-main.4282ce27.js.map",
     "static/js/2.03150a73.chunk.js": "/ccPhaidrosz/react-todo/static/js/2.03150a73.chunk.js",
     "static/js/2.03150a73.chunk.js.map": "/ccPhaidrosz/react-todo/static/js/2.03150a73.chunk.js.map",
     "index.html": "/ccPhaidrosz/react-todo/index.html",
-    "precache-manifest.7d5a2bb8d8f8440ce10a78f6f300acb7.js": "/ccPhaidrosz/react-todo/precache-manifest.7d5a2bb8d8f8440ce10a78f6f300acb7.js",
+    "precache-manifest.f7735035dd42811942b459ef26d5fab2.js": "/ccPhaidrosz/react-todo/precache-manifest.f7735035dd42811942b459ef26d5fab2.js",
     "service-worker.js": "/ccPhaidrosz/react-todo/service-worker.js",
     "static/css/main.a423be14.chunk.css.map": "/ccPhaidrosz/react-todo/static/css/main.a423be14.chunk.css.map",
     "static/js/2.03150a73.chunk.js.LICENSE.txt": "/ccPhaidrosz/react-todo/static/js/2.03150a73.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4282ce27.js",
     "static/js/2.03150a73.chunk.js",
     "static/css/main.a423be14.chunk.css",
-    "static/js/main.e89e0239.chunk.js"
+    "static/js/main.3da51c97.chunk.js"
   ]
 }
